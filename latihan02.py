@@ -1,0 +1,7 @@
+print("Hello world ")
+print("Hello world ")
+print("Hello world ")
+print('='*37)
+print('Hello world ', end=' ')
+print('Hello world ', end=' ')
+print('Hello world ', end=' ')
